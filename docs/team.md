@@ -72,14 +72,14 @@ hide:
   </div>
 
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/gerald_schwank.jpeg" alt="Cyril" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/gerald_schwank.jpeg" alt="Gerald" style="height:375px;width:300px">
     <span> Gerald Schwank<br>
     Team supervisor<br>
     Department Head at Molecular and Cellular Plant Physiology, University of Zürich</span>
   </div>
   
   <div class="image-item">
-      <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/lukas_schmidheini.jpeg" alt="Cyril" style="height:375px;width:300px">
+      <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/lukas_schmidheini.jpeg" alt="Lukas" style="height:375px;width:300px">
       <span> Lukas Schmidheini<br>
       Team advisor<br>
       PostDoc at Translational Genome Editing group, University of Zürich</span>
