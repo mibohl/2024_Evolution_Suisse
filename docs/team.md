@@ -75,7 +75,7 @@ hide:
     <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/gerald_schwank.jpg" alt="Gerald" style="height:375px;width:300px">
     <span> Gerald Schwank<br>
     Team supervisor<br>
-    Department Head at Molecular and Cellular Plant Physiology, University of Zürich</span>
+    Principal investigator at Translational Genome Editing group, University of Zürich</span>
   </div>
   
   <div class="image-item">
