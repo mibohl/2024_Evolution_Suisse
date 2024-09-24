@@ -33,40 +33,40 @@ hide:
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/SongyuanL.jpg" alt="SongyuanL" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/SongyuanL.jpg" alt="Sasha" style="height:375px;width:300px">
     <span> Sasha Melkonyan <br> Reseach assistant, University of Zürich<br>
       work in progress.</span>
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sophia.jpg" alt="Sophia" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sophia.jpg" alt="Noemie" style="height:375px;width:300px">
     <span> Noemie Allet <br>
       Master's student, ETH Zürich
       <br>work in progress.</span>
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/SongyuanZ.jpg" alt="SongyuanZ" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/SongyuanZ.jpg" alt="Max" style="height:375px;width:300px">
     <span> Max Schmitt <br> Doctoral student, ETH Zürich <br> work in progress.</span>
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Sasha" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Phillip" style="height:375px;width:300px">
     <span> Phillip Nitsch<br>
       Master's student, ETH Zürich <br> work in progress.</span>
   </div>
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Sasha" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Pau" style="height:375px;width:300px">
     <span> Pau Jorba Adolff<br>
       Master's student, ETH Zürich <br> work in progress.</span>
   </div>
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Sasha" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Jakob" style="height:375px;width:300px">
     <span> Jakob Wimmer<br>
       Master's student, ETH Zürich <br> work in progress.</span>
   </div>
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Sasha" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Michael" style="height:375px;width:300px">
     <span> Michael Bohl<br>
       Master's student, ETH Zürich <br> work in progress.</span>
   </div>
