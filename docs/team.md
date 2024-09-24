@@ -13,47 +13,75 @@ hide:
     <span> Julien Romain Bast <br>
       Master's student, ETH Zürich
       <br>
-       It's way past his bedtime.</span>
+       work in progress </span>
   </div>
+  
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Gabriel.jpg" alt="Gabriel" style="height:375px;width:300px">
     <span> Gabriel Cervera Arriaga <br>
       Master's student, ETH Zürich
       <br> 
-      Waiting to tell you that leucine is the most anabolic amino acid.</span>
+      work in progress</span>
   </div>
+  
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Kian.jpg" alt="Kian" style="height:375px;width:300px">
     <span>Kian Bigović Villi <br>
       Master's student, ETH Zürich
       <br>
-      Capable of being the angriest and the happiest person in the room, at the same time. </span>
+      work in progress </span>
   </div>
+  
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/SongyuanL.jpg" alt="SongyuanL" style="height:375px;width:300px">
-    <span> Songyuan Liu <br> Doctoral student, University of Zürich<br>
-      The fastest protein-protein interaction modeler in the east.</span>
+    <span> Sasha Melkonyan <br> Reseach assistant, University of Zürich<br>
+      work in progress.</span>
   </div>
+  
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sophia.jpg" alt="Sophia" style="height:375px;width:300px">
-    <span> Sophia Lana Fischer <br>
-      Master's student University of Zürich
-      <br>Always wearing black. You saw her wearing colour? No, you didn't.</span>
+    <span> Noemie Allet <br>
+      Master's student, ETH Zürich
+      <br>work in progress.</span>
   </div>
+  
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/SongyuanZ.jpg" alt="SongyuanZ" style="height:375px;width:300px">
-    <span> Songyuan Zhang <br> Doctoral student, University of Zürich <br> Given his proficiency in cloning, it's a wonder he hasn't cloned himself yet.</span>
+    <span> Max Schmitt <br> Doctoral student, ETH Zürich <br> work in progress.</span>
+  </div>
+  
+  <div class="image-item">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Sasha" style="height:375px;width:300px">
+    <span> Phillip Nitsch<br>
+      Master's student, ETH Zürich <br> work in progress.</span>
   </div>
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Sasha" style="height:375px;width:300px">
-    <span> Sasha Melkonyan<br>
-      Master's student, ETH Zürich <br> There are no funds he can't raise.</span>
+    <span> Pau Jorba Adolff<br>
+      Master's student, ETH Zürich <br> work in progress.</span>
+  </div>
+  <div class="image-item">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Sasha" style="height:375px;width:300px">
+    <span> Jakob Wimmer<br>
+      Master's student, ETH Zürich <br> work in progress.</span>
+  </div>
+  <div class="image-item">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Sasha" style="height:375px;width:300px">
+    <span> Michael Bohl<br>
+      Master's student, ETH Zürich <br> work in progress.</span>
   </div>
 
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/cyril_zipfel.jpg" alt="Cyril" style="height:375px;width:300px">
-    <span> Cyril Zipfel<br>
+    <span> Gerald Schwank<br>
     Team supervisor<br>
     Department Head at Molecular and Cellular Plant Physiology, University of Zürich</span>
   </div>
+  
+  <div class="image-item">
+      <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/cyril_zipfel.jpg" alt="Cyril" style="height:375px;width:300px">
+      <span> Lukas Schmidheini<br>
+      Team advisor<br>
+      PostDoc at Translational Genome Editing group, University of Zürich</span>
+    </div>
 </div>
