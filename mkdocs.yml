@@ -11,7 +11,9 @@ theme:
 
   features:
     - navigation.sections
-
+    - navigation.instant
+    - navigation.tabs
+    
 plugins:
   - glightbox
   
