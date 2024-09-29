@@ -13,7 +13,7 @@ hide:
     <span> Julien Romain Bast <br>
       Master's student, ETH Zürich
       <br>
-       work in progress </span>
+       Might have sold his kidney to finance our project. </span>
   </div>
   
   <div class="image-item">
@@ -21,7 +21,7 @@ hide:
     <span> Gabriel Cervera Arriaga <br>
       Master's student, ETH Zürich
       <br> 
-      work in progress</span>
+      Casually deadfilts two DW-86FL50 MCR -80°C freezers beween experiments.</span>
   </div>
   
   <div class="image-item">
@@ -29,58 +29,61 @@ hide:
     <span>Kian Bigović Villi <br>
       Master's student, ETH Zürich
       <br>
-      work in progress </span>
+      Busy correcting his own report corrections. </span>
   </div>
   
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/SongyuanL.jpg" alt="Sasha" style="height:375px;width:300px">
     <span> Sasha Melkonyan <br> Reseach assistant, University of Zürich<br>
-      work in progress.</span>
+      Rumor has it he has implanted a neuralink to be able to communicate with phages.</span>
   </div>
   
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sophia.jpg" alt="Noemie" style="height:375px;width:300px">
     <span> Noemie Allet <br>
       Master's student, ETH Zürich
-      <br>work in progress.</span>
+      <br>Sourdough, lab management, plasmid maps? The only constant is that she does not dissapoint.</span>
   </div>
   
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/SongyuanZ.jpg" alt="Max" style="height:375px;width:300px">
-    <span> Max Schmitt <br> Doctoral student, ETH Zürich <br> work in progress.</span>
+    <span> Max Schmitt <br> Doctoral student, ETH Zürich <br> De mentor of the team.</span>
   </div>
   
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Phillip" style="height:375px;width:300px">
     <span> Phillip Nitsch<br>
-      Master's student, ETH Zürich <br> work in progress.</span>
+      Master's student, ETH Zürich <br> Allegedly helped Julien sell his kidney.</span>
   </div>
+  
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Pau" style="height:375px;width:300px">
     <span> Pau Jorba Adolff<br>
-      Master's student, ETH Zürich <br> work in progress.</span>
+      Master's student, ETH Zürich <br> His zen state puts even the most dedicated monks to shame. He claims it's just tea.</span>
   </div>
+  
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Jakob" style="height:375px;width:300px">
     <span> Jakob Wimmer<br>
-      Master's student, ETH Zürich <br> work in progress.</span>
+      Master's student, ETH Zürich <br> Still thinks evolving RUBISCO would have been a better project.</span>
   </div>
+  
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Michael" style="height:375px;width:300px">
     <span> Michael Bohl<br>
-      Master's student, ETH Zürich <br> work in progress.</span>
+      Master's student, ETH Zürich <br> if our results were as good as his muscle-ups, we would have solved cancer 6 months ago.</span>
   </div>
 
   <div class="image-item">
     <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/gerald_schwank.jpg" alt="Gerald" style="height:375px;width:300px">
-    <span> Gerald Schwank<br>
+    <span> Prof. Gerald Schwank<br>
     Team supervisor<br>
     Principal investigator at Translational Genome Editing group, University of Zürich</span>
   </div>
   
   <div class="image-item">
       <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/lukas_schmidheini.jpg" alt="Lukas" style="height:375px;width:300px">
-      <span> Lukas Schmidheini<br>
+      <span> Dr. Lukas Schmidheini<br>
       Team advisor<br>
       PostDoc at Translational Genome Editing group, University of Zürich</span>
     </div>
