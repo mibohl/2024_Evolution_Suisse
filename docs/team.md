@@ -47,7 +47,7 @@ hide:
   
   <div class="image-item">
     <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/SongyuanZ.jpg" alt="Max" style="height:375px;width:300px">
-    <span> Max Schmitt <br> Doctoral student, ETH Zürich <br> De mentor of the team.</span>
+    <span> Max Schmitt <br> Doctoral student, ETH Zürich <br> Knows what should be done in the lab because he doesnt need to do it.</span>
   </div>
   
   <div class="image-item">
