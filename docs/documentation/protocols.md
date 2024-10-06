@@ -3,67 +3,35 @@
 Golden Gate constructs were assembled using the EcoFlex MoClo kit (Addgene kit #1000000080) doi.org/10.1021/acssynbio.6b00031. This kit comes with level 0,1, and 2 backbones (see publication for more details).
 
 1. Add the following to a PCR tube (use BsaI for level 1 and BsmBI for level 2 assemblies):
- 
-│ Reagent │ Amount │
-│ --- │ --- │
-│ Backbone DNA │ 50 ng│ 
-│ Insert DNA │ 100 ng │
-│ T4 ligase buffer│ 1 μl │
-│ T4 ligase │ 0.5 μl │
-│ BsaI / BsmBI │ 0.5 μl │
-│ ddH2O │to 10 μl │
 
+| Reagent  | Amount |
+| ------------- | ------------- |
+| Backbone DNA  | 50 ng  |
+| Insert DNA  | 100 ng |
+| T4 ligase buffer  | 1 μl |
+| T4 ligase  | 0.5 μl |
+| BsaI / BsmBI  | 0.5 μl |
+| ddH2O  | to 10 μl |
 
-Incubate in the thermocycler using the following protocol:
-Level 1 / BsaI
-Step
-Cycles (x)
-Temperature (ºC)
-Time
-Digestion and ligation
-15-30
-37
-5 min
-Annealing
-16
-10 min
-Final digestion and T4 ligase inactivation
-1
-50
-5 min
-Enzyme inactivation
-1 
-80
-5 min
+2. Incubate in the thermocycler using the following protocol:
+ a) Level 1 / BsaI
 
+| Step  | Nr. of Cycles | Temperature (ºC)|Time|
+| ------------- | ------------- |------------- |------------- |
+| Digestion and ligation | 15-30  |37  |10 min  |
+| Annealing | 15-30  | 16  |5 min  |
+| Final digestion and T4 ligase inactivation | 1  |50 |5 min  |
+| Enzyme inactivation | 1   |80 |5 min  |
 
+ b) Level 2 / BsmBI
 
-Level 2 / BsmBI
-
-Step
-Cycles (x)
-Temperature (ºC)
-Time
-Initial digestion
-1
-42
-1 h
-Digestion and ligation
-99
-42
-5 min
-Annealing
-16
-1 min
-Final digestion
-1
-42
-1 h
-Enzyme inactivation
-1 
-80
-15 min
-
+| Step  | Nr. of Cycles | Temperature (ºC)|Time|
+| ------------- | ------------- |------------- |------------- |
+| Initial digestion | 1  |42  |1 h  |
+| Digestion and ligation | 99  |42  |5 min  |
+| Annealing | 99  | 16  |1 min  |
+| Final digestion  | 1  |42 |1h min  |
+| Enzyme inactivation | 1   |80 |15 min  |
 
 Note: Try to use smaller vectors containing fewer inserts as reduced protein expression demands may exhibit higher transformation efficiency due to the reduced size and lower metabolic load on the cells.
 
