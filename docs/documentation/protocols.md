@@ -9,7 +9,7 @@
 
 
 ## Golden Gate Cloning
-Golden Gate constructs were assembled using the EcoFlex MoClo kit (Addgene kit #1000000080) doi.org/10.1021/acssynbio.6b00031. This kit comes with level 0,1, and 2 backbones (see publication for more details).
+Golden Gate constructs were assembled using the EcoFlex MoClo kit (Addgene kit #1000000080)[^1]. This kit comes with level 0,1, and 2 backbones (see publication for more details).
 
 1. Add the following to a PCR tube (use BsaI for level 1 and BsmBI for level 2 assemblies):
 
@@ -233,3 +233,6 @@ Set the thermocycler for the following program:
 5. Incubate the flask at 37ºC, shaking at 250 rpm, overnight (16-20 h)
 6. The following day, determine the phage titer using qPCR (see Determination of phage titer by qPCR)
 7. Initiate the next round of drift by repeating steps 2 to 6. Infect the fresh culture with the phages that propagated overnight and whose titer you determined by qPCR
+
+## References
+[^1]: Moore SJ, Lai H-E, Kelwick RJR, Chee SM, Bell DJ, Polizzi KM, et al. EcoFlex: A multifunctional MoClo kit for E. coli synthetic biology. ACS Synth Biol. 2016;5: 1059–1069. doi:10.1021/acssynbio.6b00031
