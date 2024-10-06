@@ -11,7 +11,7 @@
 
 
 ## Golden Gate Cloning
-Golden Gate constructs were assembled using the EcoFlex MoClo kit (Addgene kit #1000000080)[^1]. This kit comes with level 0,1, and 2 backbones (see publication for more details).
+Golden Gate constructs were assembled using the EcoFlex MoClo kit[^1] (Addgene kit #1000000080). This kit comes with level 0,1, and 2 backbones (see publication for more details).
 
 1. Add the following to a PCR tube (use BsaI for level 1 and BsmBI for level 2 assemblies):
 
