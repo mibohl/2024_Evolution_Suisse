@@ -234,5 +234,13 @@ Set the thermocycler for the following program:
 6. The following day, determine the phage titer using qPCR (see Determination of phage titer by qPCR)
 7. Initiate the next round of drift by repeating steps 2 to 6. Infect the fresh culture with the phages that propagated overnight and whose titer you determined by qPCR
 
+## Data analysis 
+### General data analysis and visualisation
+Raw data and code used to analyse it are available on a public [GitHub repository](https://github.com/Student-Biolab-Zurich/idec2024-data-analysis).
+### Analysis of phage drift using Sanger sequencing
+Data were analysed and visualised using R Statistical Software v4.4.1[^2]. Sanger sequencing result files were processed using the sangerseqR package v1.40.0[^3]. For each nucleotide position, the fraction of mutated signal was calculated as the ratio of the maximum peak amplitude for each non-called base to the total peak amplitudes within the respective base-calling window. To account for signal degradation commonly observed at the extremities of Sanger sequencing reads, only positions between 50 and 650 were considered.
+
 ## References
 [^1]: Moore SJ, Lai H-E, Kelwick RJR, Chee SM, Bell DJ, Polizzi KM, et al. EcoFlex: A multifunctional MoClo kit for E. coli synthetic biology. ACS Synth Biol. 2016;5: 1059–1069. doi:10.1021/acssynbio.6b00031
+[^2]: Komelj J. R Core team: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna. In: Scientific Research [Internet]. 2023 [cited 1 Oct 2024]. Available: https://www.scirp.org/reference/referencespapers?referenceid=3582659
+[^3]: Hill JT, Demarest BL, Bisgrove BW, Su Y-C, Smith M, Yost HJ. Poly peak parser: Method and software for identification of unknown indels using sanger sequencing of polymerase chain reaction products. Dev Dyn. 2014;243: 1632–1636. doi:10.1002/dvdy.24183
