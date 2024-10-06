@@ -19,7 +19,9 @@ plugins:
   
 markdown_extensions:
   - footnotes
-
+  - md_in_html
+  - tables
+  
   # For MathJax
   - pymdownx.arithmatex:
       generic: true
