@@ -146,7 +146,7 @@ Note: it makes sense to do 2 plaque assays. The first assay is to determine if p
 ## Determination of phage titer by plaque assay
 1. Spin down your samples at 8’000 xg for 2 min to remove bacteria and other contaminants
 2. Transfer supernatant to a new tube. Phages can be stored at 4ºC for further use (note that phage titer will gradually decrease over time)
-3. Dilute a saturated S2208 culture and grow it to an OD<sub>600<sub> of 0.5
+3. Dilute a saturated S2208 culture and grow it to an OD<sub>600</sub> of 0.5
 4. Pour 15 mL LB agar without antibiotics in a Petri dish and let solidify
 5. Once solidified, mix 2 mL of LB and 2 mL of hot LB agar, add 1 mL of the S2208 culture, vortex quickly, and pour on top of the solidified LB agar. Let solidify for at least 30 min
 6. Meanwhile, prepare a 10-fold serial dilution of your phage sample (100 to 10-7). Remember to include a phage with a known pfu/mL as a positive control
@@ -159,7 +159,7 @@ titer (in pfu/mL) = (# of plaques) x (dilution factor) x 100
 ## Determination of phage titer by qPCR
 1. Spin down your samples at 8’000 xg for 2 min to remove bacteria and other contaminants
 2. Transfer supernatant to a new tube. Phages can be stored at 4ºC for further use (note that phage titer will gradually decrease over time)
-3. Prepare the qPCR reaction mix as follows (see Supplementary XX for oLS-1662 and oLS-1663):
+3. Prepare the qPCR reaction mix as follows:
 
 
 | Reagent  | Volume (µL) |
@@ -212,7 +212,7 @@ Set the thermocycler for the following program:
 | Elongation  | 30 |72 |20 s/kb of product  |
 | Final Elongation  | 1 |72 |2 min  |
 
-*calculate annealing temperature for your pair of primers with the NEB T<sub>m<sub> Calculator
+*calculate annealing temperature for your pair of primers with the NEB T<sub>m</sub> Calculator
 
 3. Treat 1 µL of the PCR reaction with 5 µL of KLD buffer, 1 µL of the KLD Enzyme Mix, and top it with 3 µL of water
 4. Incubate at room temperature for 5 min
@@ -220,14 +220,14 @@ Set the thermocycler for the following program:
 
 ## Phage propagation assay 
 1. Transform S2060 cells with the AP(s) of interest (see Transformation)
-2. Dilute a saturated overnight culture of bacteria 1,000-fold into LB media supplemented with the appropriate antibiotics and grow at 37ºC to OD<sub>600<sub> 0.5
+2. Dilute a saturated overnight culture of bacteria 1,000-fold into LB media supplemented with the appropriate antibiotics and grow at 37ºC to OD<sub>600</sub> 0.5
 3. Aliquote 1 mL of culture into a deep-well plate and infect with phages at a starting titer of 106 pfu/mL. Seal the plate with a breathable membrane.
 4. Incubate the plate overnight (16-20 h) at 37ºC
 5. Determine the phage titer by performing a plaque assay (see Determination of phage titer by plaque assay). To calculate fold propagation, divide the final phage titer by the starting titer
 
 ## Phage-assisted non-continuous evolution (PANCE) to generate a library of Selection Plasmids (SP)
 1. To drift your selection plasmid, you will use a S2060 strain transformed with DP6 plasmid (see Transformation)
-2. Dilute a saturated overnight bacteria culture in 50 mL LB with appropriate antibiotics and 100 mM glucose, and grow it to an OD<sub>600<sub> of 0.5
+2. Dilute a saturated overnight bacteria culture in 50 mL LB with appropriate antibiotics and 100 mM glucose, and grow it to an OD<sub>600</sub> of 0.5
 3. Add arabinose to a final concentration of 40 mM. This will induce the expression of the mutagenesis machinery.
 4. Immediately after, infect your culture with phages containing the SP you want to drift to a final concentration of 104 pfu/mL
 5. Incubate the flask at 37ºC, shaking at 250 rpm, overnight (16-20 h)
