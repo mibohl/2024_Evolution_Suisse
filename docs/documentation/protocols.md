@@ -4,7 +4,7 @@
 * The enzymes used in the experiments were obtained from New England Biolabs. Protocols and enzyme-specific reaction conditions were followed as provided by the manufacturer if not mentioned otherwise.
 * QIAprep Spin Miniprep Kit (Qiagen) was used for plasmid isolation from bacterial cultures, as per the protocol provided by the manufacturer.
 * Chemicals used for the preparation of buffers, solutions, and other reagents were purchased from Sigma-Aldrich.
-* All DNA fragments for the experiments were codon optimised for E. coli, synthesised and ordered from Twist Bioscience.
+* All DNA fragments for the experiments were codon optimised for _E. coli_, synthesised and ordered from Twist Bioscience.
 * Oligonucleotide primers were ordered from Microsynth. 
 
 
@@ -66,7 +66,7 @@ Store samples on ice or at –20°C for subsequent transformation
 
 
 ## Bacterial transformation
-To test our genetically engineered constructs, we transformed them into bacteria. For single plasmid transformation, _E. coli_ cells were made chemically competent using the Mix & Go E. coli Transformation Kit & Buffer Set (Zymo Research), following the manufacturer's protocol.
+To test our genetically engineered constructs, we transformed them into bacteria. For single plasmid transformation, _E. coli_ cells were made chemically competent using the Mix & Go _E. coli_ Transformation Kit & Buffer Set (Zymo Research), following the manufacturer's protocol.
 
 1. Thaw competent DH5a on ice
 2. Add 1 μl of plasmid DNA or 5 uL of assembly reaction to 20-50 μl of competent cells
@@ -91,17 +91,17 @@ Due to the metabolic burden caused by DNA replication and protein expression, co
 
 ## Phage production
 
-The production of our phages started by assembling a plasmid containing all phage genes. Our selection plasmid, containing either SIAH1/2 or unspecific enzymes but lacking essential genes for phage replication was combined with splitC (Addgene #138523) and splitD (Addgene #138521) plasmids using SapI Golden Gate assembly.
+The production of our phages started by assembling a plasmid containing all phage genes. Our selection plasmid, containing either SIAH1/2 or unspecific enzymes but lacking essential genes for phage replication was combined with _splitC_ (Addgene #138523) and _splitD_ (Addgene #138521) plasmids using SapI Golden Gate assembly.
 
 Day 1: Golden Gate assembly
-Assemble a plasmid containing all phage genes: the selection plasmid, splitC (Addgene #138523) and splitD (Addgene #138521) by mixing the following components in a PCR tube
+Assemble a plasmid containing all phage genes: the selection plasmid, _splitC_ (Addgene #138523) and _splitD_ (Addgene #138521) by mixing the following components in a PCR tube
 
 
 | Reagent  | Amount |
 | ------------- | ------------- |
 | selection plasmid  | 200 ng  |
-| SplitC  | 100 ng |
-| SplitD  | 100 ng |
+| _SplitC_  | 100 ng |
+| _SplitD_  | 100 ng |
 | 10 × T4 ligase buffer  | 1 μl |
 | T4 ligase  | 0.5 μl |
 | Sapl1  | 0.5 μl |
@@ -141,7 +141,7 @@ Day 3: Plaque Assay to determine phage titer
 4. Determine the phage titer with a plaque assay as described below
 5. Phages can be stored in the fridge for multiple months. If titer gets to low, re-grow in S2208 bacteria again
 
-Note: it makes sense to do 2 plaque assays. The first assay is to determine if phages are produced and to estimate their amount in PFU. From the first assay plate, one plaque is picked to get monoclonal phages and a second assay is performed to asses the PFU.
+Note: it makes sense to do 2 plaque assays. The first assay is to determine if phages are produced and to estimate their amount in plaque forming units (pfu). From the first assay plate, one plaque is picked to get monoclonal phages and a second assay is performed to asses the pfu.
 
 ## Determination of phage titer by plaque assay
 1. Spin down your samples at 8’000 xg for 2 min to remove bacteria and other contaminants
@@ -212,7 +212,7 @@ Set the thermocycler for the following program:
 | Elongation  | 30 |72 |20 s/kb of product  |
 | Final Elongation  | 1 |72 |2 min  |
 
-*calculate annealing temperature for your pair of primers with the NEB Tm Calculator
+*calculate annealing temperature for your pair of primers with the NEB T<sub>m<sub> Calculator
 
 3. Treat 1 µL of the PCR reaction with 5 µL of KLD buffer, 1 µL of the KLD Enzyme Mix, and top it with 3 µL of water
 4. Incubate at room temperature for 5 min
@@ -227,7 +227,7 @@ Set the thermocycler for the following program:
 
 ## Phage-assisted non-continuous evolution (PANCE) to generate a library of Selection Plasmids (SP)
 1. To drift your selection plasmid, you will use a S2060 strain transformed with DP6 plasmid (see Transformation)
-2. Dilute a saturated overnight bacteria culture in 50 mL LB with appropriate antibiotics and 100 mM glucose, and grow it to an OD600 of 0.5
+2. Dilute a saturated overnight bacteria culture in 50 mL LB with appropriate antibiotics and 100 mM glucose, and grow it to an OD<sub>600<sub> of 0.5
 3. Add arabinose to a final concentration of 40 mM. This will induce the expression of the mutagenesis machinery.
 4. Immediately after, infect your culture with phages containing the SP you want to drift to a final concentration of 104 pfu/mL
 5. Incubate the flask at 37ºC, shaking at 250 rpm, overnight (16-20 h)
