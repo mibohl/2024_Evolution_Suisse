@@ -1,6 +1,6 @@
 # Protocols
 
-## Protocol pretext
+## General information regarding the listed protocols
 * The enzymes used in the experiments were obtained from New England Biolabs. Protocols and enzyme-specific reaction conditions were followed as provided by the manufacturer if not mentioned otherwise.
 * QIAprep Spin Miniprep Kit (Qiagen) was used for plasmid isolation from bacterial cultures, as per the protocol provided by the manufacturer.
 * Chemicals used for the preparation of buffers, solutions, and other reagents were purchased from Sigma-Aldrich.
