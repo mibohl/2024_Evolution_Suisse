@@ -1,4 +1,13 @@
 # Protocols
+
+## Protocol pretext
+* The enzymes used in the experiments were obtained from New England Biolabs. Protocols and enzyme-specific reaction conditions were followed as provided by the manufacturer if not mentioned otherwise.
+* QIAprep Spin Miniprep Kit (Qiagen) was used for plasmid isolation from bacterial cultures, as per the protocol provided by the manufacturer.
+* Chemicals used for the preparation of buffers, solutions, and other reagents were purchased from Sigma-Aldrich.
+* All DNA fragments for the experiments were codon optimised for E. coli, synthesised and ordered from Twist Bioscience.
+* Oligonucleotide primers were ordered from Microsynth. 
+
+
 ## Golden Gate Cloning
 Golden Gate constructs were assembled using the EcoFlex MoClo kit (Addgene kit #1000000080) doi.org/10.1021/acssynbio.6b00031. This kit comes with level 0,1, and 2 backbones (see publication for more details).
 
@@ -156,9 +165,11 @@ titer (in pfu/mL) = (# of plaques) x (dilution factor) x 100
 | Reagent  | Volume (µL) |
 | ------------- | ------------- |
 | FirePol Polymerase  | 3  |
-| oLS-1662 100 uM | 0.05 |
-| oLS-1663 100 uM  | 0.05 |
+| 100 uM Forward Primer*| 0.05 |
+| 100 uM Reverse Primer*| 0.05 |
 | ddH2O  | 9.9 |
+
+*oLS-1662 100 uM and oLS-1663 were used as forward and reverse primers respectively see Supplementary Table 4 for sequences.
 
 4. In a qPCR 384-well plate, add 13 µL of qPCR reaction mix to each well, followed by 2 µL of the supernatant of each sample. Perform triplicate measurements for better results
 5. Cover the plate with an adhesive seal and briefly spin down the plate 
