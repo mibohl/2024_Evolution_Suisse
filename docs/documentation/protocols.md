@@ -259,6 +259,7 @@ Set the thermocycler for the following program:
 13. Start PACE. Without arabinose until the lagoon is filled, then start arabinose flow.
 
 ### Maintaining PACE
+The reactor needs to be checked every day to make sure PACE is running smoothly.
 1. Check medium, waste and arabinose levels. Replace if necessary.
 2. Determine phage titer by qPCR every 12-24 h 
 3. Check that the reactor is running properly:
@@ -266,7 +267,6 @@ Set the thermocycler for the following program:
    * Check medium consumption since the last night
    * Check amount of disposed lagoon waste from the last night
 7. Mark new levels of medium and lagoon waste
-
 
 
 ## Data analysis 
