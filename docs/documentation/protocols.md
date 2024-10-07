@@ -234,6 +234,41 @@ Set the thermocycler for the following program:
 6. The following day, determine the phage titer using qPCR (see Determination of phage titer by qPCR)
 7. Initiate the next round of drift by repeating steps 2 to 6. Infect the fresh culture with the phages that propagated overnight and whose titer you determined by qPCR
 
+## Phage-assisted continuous evolution (PACE)
+### Setting up the PACE reactior
+
+1. Autoclave all parts (media bottle, tubing with adaptors, glass bottles with correct stir bar for Chemostat and lagoon). Close any openings with aluminium foil and secure the foil with tape. Autoclave LB with Tube already inserted.
+2. Inoculate 30 mL LB with bacteria (correct stringency, correct media depending on strain), grow to OD<sub>600</sub> of 0.6 (takes about 8 h). Bacteria can be stored in the fridge overnight.
+3. Important: Work in sterile conditions when assembling the reactor to avoid contaminations. All components should be either autoclaved or sterile already.
+4. Add antibiotics/inducers etc. to media bottle
+5. Set up hardware: connect tubing and insert tubes into pump, connect waste and media bottles (see image). Make sure the orientation of the tubing in the pumps is correct.
+6. Prepare glass bottle for chemostat (transfer 30 mL of liquid culture grown the day before). Mark the liquid level with a pen on the bottle.
+7. Insert the three needles in the lagoon
+   * Waste: insert it at the edge. It should touch the liquid surface and put it against the glass wall
+   * Fresh media: should be inserted at the centre, higher than the waste needle
+   * Air: only insert it a bit (highest needle), connect a sterile filter on the outside.
+9. Run Chemostat until the correct OD is reached. (e.g. overnight)
+10. Set up lagoon:
+    * add phages (the titer should be around Cp25).
+    * Connect lagoon to chemostat: Tubing to and from lagoon, Lagoon waste
+11. Insert the three needles in the chemostat and one in the lagoon
+    * Tubing from chemostat to lagoon: The needle in the chemostat should be inserted all the way (lowest needle) to ensure that there are always bacteria flowing to the reactor whereas the needle in the lagoon should not touch the liquid surface.
+    * Lagoon to waste: insert it at the edge. It should touch the liquid surface and put it against the glass wall (at 8 mL mark).
+    * Lagoon to air: only insert it a bit (highest needle), connect a sterile filter on the outside.
+12. Connect Arabinose: fill syringe with Arabinose, attach a sterile filter to the tip & attach it to the tubing (in front of the pump 3).
+13. Start PACE. Without arabinose until the lagoon is filled, then start arabinose flow.
+
+### Maintaining PACE
+1. Check medium, waste and arabinose levels. Replace if necessary.
+2. Determine phage titer by qPCR every 12-24 h 
+3. Check that the reactor is running properly:
+   * Check that stirring bars are stirring and that turbidostat is warm (should be 37°C)
+   * Check medium consumption since the last night
+   * Check amount of disposed lagoon waste from the last night
+7. Mark new levels of medium and lagoon waste
+
+
+
 ## Data analysis 
 ### General data analysis and visualisation
 Raw data and code used to analyse it are available on a public [GitHub repository](https://github.com/Student-Biolab-Zurich/idec2024-data-analysis).
