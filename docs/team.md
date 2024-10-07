@@ -25,7 +25,7 @@ hide:
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Kian.jpg" alt="Kian" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/Kian.jpg" alt="Kian" style="height:375px;width:300px">
     <span>Kian Bigović Villi <br>
       Master's student, ETH Zürich
       <br>
@@ -57,7 +57,7 @@ hide:
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Pau" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/Jakob.jpg" alt="Pau" style="height:375px;width:300px">
     <span> Pau Jorba Adolff<br>
       Master's student, ETH Zürich <br> His zen state puts even the most dedicated monks to shame. He claims it's just tea.</span>
   </div>
@@ -75,14 +75,14 @@ hide:
   </div>
 
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/gerald_schwank.jpg" alt="Gerald" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/Schwank.jpg" alt="Gerald" style="height:300px;width:300px">
     <span> Prof. Gerald Schwank<br>
     Team supervisor<br>
     Principal investigator at Translational Genome Editing group, University of Zürich</span>
   </div>
   
   <div class="image-item">
-      <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/lukas_schmidheini.jpg" alt="Lukas" style="height:375px;width:300px">
+      <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/Lukas.jpg" alt="Lukas" style="height:300px;width:300px">
       <span> Dr. Lukas Schmidheini<br>
       Team advisor<br>
       PostDoc at Translational Genome Editing group, University of Zürich</span>
