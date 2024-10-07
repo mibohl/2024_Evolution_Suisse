@@ -33,20 +33,20 @@ hide:
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/Sasha.jpg" alt="Sasha" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/Sasha.jpg" alt="Sasha" style="height:300px;width:300px">
     <span> Sasha Melkonyan <br> Reseach assistant, University of Zürich<br>
       Rumor has it he has implanted a neuralink to be able to communicate with phages.</span>
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sophia.jpg" alt="Noemie" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/Noemie.jpg" alt="Noemie" style="height:300px;width:300px">
     <span> Noemie Allet <br>
       Master's student, ETH Zürich
       <br>Sourdough, lab management, plasmid maps? The only constant is that she does not dissapoint.</span>
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/SongyuanZ.jpg" alt="Max" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/Max.jpg" alt="Max" style="height:300px;width:300px">
     <span> Max Schmitt <br> Doctoral student, ETH Zürich <br> Knows what should be done in the lab because he doesnt need to do it.</span>
   </div>
   
@@ -63,7 +63,7 @@ hide:
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Jakob" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/Jakob.jpg" alt="Jakob" style="height:300px;width:300px">
     <span> Jakob Wimmer<br>
       Master's student, ETH Zürich <br> Still thinks evolving RUBISCO would have been a better project.</span>
   </div>
