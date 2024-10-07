@@ -33,7 +33,7 @@ hide:
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/SongyuanL.jpg" alt="Sasha" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/Sasha.jpg" alt="Sasha" style="height:375px;width:300px">
     <span> Sasha Melkonyan <br> Reseach assistant, University of Zürich<br>
       Rumor has it he has implanted a neuralink to be able to communicate with phages.</span>
   </div>
