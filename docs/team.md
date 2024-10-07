@@ -25,7 +25,7 @@ hide:
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/Kian.jpg" alt="Kian" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/Kian.jpg" alt="Kian" style="height:300px;width:300px">
     <span>Kian Bigović Villi <br>
       Master's student, ETH Zürich
       <br>
