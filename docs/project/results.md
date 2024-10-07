@@ -13,7 +13,12 @@ We tested if the E3 ligases SIAH1 and SIAH2 can trigger phage replication when a
 </figure>
 
 We then looked at whether changing the target protein affects phage replication. We replaced EGLN3 (blue) with α-Synuclein (orange), which is also recognised by SIAH1/2. Changing the target protein changes the level of phage propagation. This shows that our system depends on SIAH1 or SIAH2 and the target protein interacting together. 
-Figure description:  Phage propagation is dependent on the substrate. The fold change shows how much the number of phages increased or decreased. 
+
+<figure markdown>
+![Figure_initial_difference](https://idec-teams.github.io/2024_Evolution_Suisse/img/result figures/Boxplot_quality_positions_wiki.png)
+<figcaption> Phage propagation is dependent on the substrate. The fold change shows how much the number of phages increased or decreased. </figcaption>
+</figure>
+ 
 
 Next, we looked at how changes in the degron would affect our system. We found that even when we altered key parts of the degron in EGLN3, phage replication was not significantly affected. This suggests that phage propagation might be triggered by other factors than the degron. 
 
