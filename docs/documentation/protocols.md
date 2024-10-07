@@ -169,7 +169,7 @@ titer (in pfu/mL) = (# of plaques) x (dilution factor) x 100
 | 100 uM Reverse Primer*| 0.05 |
 | ddH2O  | 9.9 |
 
-*oLS-1662 100 uM and oLS-1663 were used as forward and reverse primers respectively see Supplementary Table 4 for sequences.
+*oLS-1662 100 uM and oLS-1663 were used as forward and reverse primers respectively see [Supplementary Table 4](https://idec-teams.github.io/2024_Evolution_Suisse/files/supplement.pdf) for sequences.
 
 4. In a qPCR 384-well plate, add 13 µL of qPCR reaction mix to each well, followed by 2 µL of the supernatant of each sample. Perform triplicate measurements for better results
 5. Cover the plate with an adhesive seal and briefly spin down the plate 
