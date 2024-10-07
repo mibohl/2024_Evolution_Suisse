@@ -59,13 +59,14 @@ We were able to show that phage propagation is dependent on both the substrate o
 
 ### What factors lead to unwanted, E3-ligase independent page propagation? 
 We suspected that the background phage propagation we observed could be caused by one of two things: 
-Leaky transcription of gIII: the gene controlling phage growth is turned on without the split-RNAP components being present. 
-Spontaneous assembly of the split-RNAP subunits: The two halves of the RNAP are coming together on their own, without the need of ubiquitination of the target substrate. 
+
+1. Leaky transcription of gIII: the gene controlling phage growth is turned on without the split-RNAP components being present. 
+2. Spontaneous assembly of the split-RNAP subunits: The two halves of the RNAP are coming together on their own, without the need of ubiquitination of the target substrate.
 
 Both hypotheses lead to gIII expression independent of the E3 ligase activity. To test these hypotheses, we quantified phage propagation in cells that had only one half of the RNAP. In these cells, phage propagation was suppressed, confirming that both halves of the RNAP are required to activate gIII expression. This means that accidental activation of gIII wasn’t the issue. Instead, these results show that the two enzyme halves were probably joining together on their own, causing phage propagation without the involvement of the E3 ligase.
 
 <figure markdown>
-![Figure_split_RNAP_parts](https://idec-teams.github.io/2024_Evolution_Suisse/img/result figures/Boxplot_quality_positions_wiki.png)
+![Figure_split_RNAP_parts](https://idec-teams.github.io/2024_Evolution_Suisse/img/result figures/Fig4_wiki.png)
 <figcaption> Phage propagation in the presence and absence of split-RNAP components. This figure shows how much the phage population changed after overnight incubation with bacteria missing one of the two halves of the split-RNAP. The results are shown as a log2-fold change, meaning the numbers show how much the phage count increased or decreased, compared to the starting level. NC (negative control) is a bacterial strain lacking both parts of the system. PC (positive control) is a bacterial strain with the full system.</figcaption>
 </figure>
 
