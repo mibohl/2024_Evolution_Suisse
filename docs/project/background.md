@@ -1,6 +1,18 @@
 # Background
 
 
+## Targeted Protein Degradation presents a promising therapeutic strategy
+
+Cells not only constantly produce proteins, but also continuously break down old, damaged, or unnecessary ones. This protein degradation process is vital for maintaining cellular health and is often centred around ubiquitination—a system where unwanted proteins are tagged with a small molecule called ubiquitin. The presence of ubiquitin signals to the cell’s "garbage disposal" system, the ubiquitin-proteasome system (UPS), to degrade these proteins[^ubi_first].
+
+The UPS involves several important steps and enzymes to ensure that only the right proteins are marked for destruction. Here, three enzymes are involved in the tagging process: Ubiquitin-activating enzymes (E1), ubiquitin-conjugating enzymes (E2), and E3 ligases. In humans, the UBA1 enzyme (E1) usually starts the process by attaching ubiquitin to one of about 40 E2 enzymes. The E3 ligase then plays a critical role, acting as a "scout" that identifies which protein needs to be degraded by recognizing different signals, such as specific peptide sequences called degrons, on the target protein. The E3 ligase attaches the first ubiquitin molecule, initiating the formation of a polyubiquitin chain, which can mark the protein for breakdown in the proteasome[^ubi_second]. Here, proteins are broken down into smaller pieces for reuse or disposal [^ubi_third][^ubi_fourth].
+
+The UPS is highly selective, ensuring that only the right proteins are degraded. However, sometimes this system fails to properly address problematic proteins, which can lead to diseases, such as cancer or autoimmune diseases [^ubi_fifth][^ubi_sixth]. To overcome this, researchers have turned to Targeted Protein Degradation (TPD), a cutting-edge therapeutic approach that directs the body’s own degradation machinery toward disease-causing proteins. Current TPD strategies include small molecules like PROTACs (proteolysis-targeting chimeras) and molecular glues, which help guide harmful proteins to be tagged with ubiquitin and destroyed by the UPS [^ubi_first].
+
+Despite their promise, current TPD methods face significant challenges. They can mistakenly tag healthy proteins for degradation, leading to unwanted off-target effects. Furthermore, these approaches may be inherently toxic or suffer from poor pharmacokinetic properties, complicating their development into safe and effective treatments (**10.1038/s41573-021-00371-6**). These limitations underscore the need for novel advancements to improve the precision of targeting harmful proteins, which could greatly enhance both the effectiveness and safety of protein degradation therapies.
+
+
+
 ## Phage-Assisted Continuous Evolution
 Life on earth was shaped by evolution by which the different species adapted to their environment over the course of countless generations and millions of years. In the lab it is possible to speed up this process and guide it towards a user-defined goal, which is called directed evolution. Here, the goal is usually to steer proteins or nucleic acids towards adapting new functions or improve their main features like the catalysis of a certain reaction. Directed evolution of biomolecules generally involves three main steps. First, we take the molecule of interest and introduce mutations—small changes that have the potential to improve, or impair, its function. From this pool of mutants, we then need to identify those that perform better, either by screening—measuring how well they carry out their function, and picking those that perform best—or by selection, where only the mutants that perform their function well enough are allowed to pass. Finally, once we've identified promising variants, we repeat the cycle again and again. If this sounds like a long and tedious process, that's because it is. Each of these steps can take several days, requiring the constant attention of scientists. 
 
@@ -16,5 +28,13 @@ To make this a self-sustaining evolution system, a few more adjustments are need
 Sometimes, the activity of the biomolecule we're evolving is too weak, resulting in slow phage propagation that makes it difficult to run PACE effectively. In such cases, we use a modified approach called Phage-Assisted Non-Continuous Evolution (PANCE). Unlike PACE, where phages and bacteria are continuously refreshed in a bioreactor (lagoon), PANCE works in a batch culture. In this method, phages are introduced into a batch of bacteria and allowed to propagate over a set period. Once the cycle is complete, a sample of the culture is taken and used to inoculate a new batch of bacteria, repeating the process. This non-continuous setup eliminates the risk of phages being removed from the culture faster than they can propagate, enabling evolution even when the activity of the biomolecule is low. PANCE is often used as a preliminary step before PACE, allowing us to first evolve the biomolecule to a higher activity level, which is then sufficient for running continuous evolution in the PACE system.
 
 ## References
-[^pace_paper]:Esvelt KM, Carlson JC, Liu DR. A system for the continuous directed evolution of biomolecules. Nature. 2011;472: 499–503. doi:10.1038/nature09929
 
+[^ubi_first]:Tsai JM, Nowak RP, Ebert BL, Fischer ES. Targeted protein degradation: from mechanisms to clinic. Nat Rev Mol Cell Biol. 2024;25: 740–757. doi:10.1038/s41580-024-00729-9
+[^ubi_second]:Cowan AD, Ciulli A. Driving E3 ligase substrate specificity for targeted protein degradation: Lessons from nature and the laboratory. Annu Rev Biochem. 2022;91: 295–319. doi:10.1146/annurev-biochem-032620-104421
+[^ubi_third]:Rape M. Ubiquitylation at the crossroads of development and disease. Nat Rev Mol Cell Biol. 2017;19: 59–70. doi:10.1038/nrm.2017.83
+[^ubi_fourth]:Damgaard RB. The ubiquitin system: from cell signalling to disease biology and new therapeutic opportunities. Cell Death Differ. 2021;28: 423–426. doi:10.1038/s41418-020-00703-w
+[^ubi_fifth]:Vu PK, Sakamoto KM. Ubiquitin-mediated proteolysis and human disease. Mol Genet Metab. 2000;71: 261–266. doi:10.1006/mgme.2000.3058
+[^ubi_sixth]:Martínez-Jiménez F, Muiños F, López-Arribillaga E, Lopez-Bigas N, Gonzalez-Perez A. Systematic analysis of alterations in the ubiquitin proteolysis system reveals its contribution to driver mutations in cancer. Nat Cancer. 2020;1: 122–135. doi:10.1038/s43018-019-0001-2
+
+
+[^pace_paper]:Esvelt KM, Carlson JC, Liu DR. A system for the continuous directed evolution of biomolecules. Nature. 2011;472: 499–503. doi:10.1038/nature09929
