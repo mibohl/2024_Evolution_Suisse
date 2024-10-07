@@ -1,6 +1,33 @@
 # Results
 
 
+
+## Development of an E3 ligase PACE evolutionary system
+
+To evolve the SIAH1/2 E3 ubiquitin ligases using the PACE system, we needed to link the ligase’s activity directly to phage propagation. To achieve this, we utilised a modified T7 bacteriophage RNA polymerase (RNAP) that had been split into two halves. Normally, this split RNAP is inactive unless both halves are brought close together within the cell, forming a complete, functional complex. We designed a system where the RNAP halves would only assemble if the E3 ligase successfully ubiquitinated its target.
+
+In this setup, one half of the RNAP is fused to ubiquitin, while the other half is fused to a substrate that can be ubiquitinated. If SIAH1/2 (E3) ubiquitinates the substrate, the two RNAP halves are brought close enough to combine, forming a complete RNAP capable of transcribing genes. We took advantage of this by placing the gene gIII (coding for pIII, a protein crucial for phage propagation) under the control of a T7 promoter, which only the assembled RNAP can activate. As a result, phages can only propagate if SIAH1/2 effectively ubiquitinates the target, tying the phage’s propagation to the ligase’s activity. Additionally, we also designed a system that could select against specific off-target effects (Figure X). To this end, we would add an additional genetic circuit which ‘punished’ E3 ligases that recognised unwanted targets. Instead of the substrate towards which we want to evolve, we fuse the unwanted protein (dubbed the mock substrate) to the C-terminal  RNAP subunit. This could be the original canonical substrate of the E3 or a protein recognized as an off-target in later stages of the SIAH1/2 evolution. If this mock substrate is recognized by a SIAH1/2 variant it would also trigger the formation of a functioning RNAP through the ubiquitination of the mock substrate. Crucially, the C-terminal RNAP fused to the mock substrate differs from the one present in the positive selection as it does not bind this T7 promoter sequence, but a slightly altered one. This ensures that one can perform the positive and negative selection at the same time. The altered T7 promoter sequence (*PT7; Figure X) is then recognized by the negative selection RNAP which leads to the transcription of a mock gIII. Phages that incorporate the encoded protein are essentially unable to infect new cells, leading to the washout of phages carrying SIAH1/2 variants that recognize unwanted substrates.
+
+<figure markdown>
+![Figure_positive_negative_selection](https://idec-teams.github.io/2024_Evolution_Suisse/img/result figures/E3_selection_V1.png)
+<figcaption> Figure X: Selection logic for SIAH1/2-dependent gIII expression. (a) Split T7 RNAP subunits fused to ubiquitin or a canonical substrate of SIAH1/2. The presence of E1, E2 and E3 (SIAH1/2) should lead to the assembly of the T7 RNAP subunits and thereby gIII transcription under the control of a T7 promoter. (b) Potential off-target effects of the evolved SIAH1/2 could be selected against by punishing spurious ubiquitination of a mock substrate by E3 ligase. In a new AP1neg plasmid, a mutated version of the C-term RNAP subunit that recognises a modified T7 promoter sequence [1] is fused to a mock substrate. A non-functional gIII (here, mock gIII) is placed under the control of the modified T7 promoter. Recognition and subsequent ubiquitination of the mock substrate by the evolved E3 ligase leads to the expression of mock gIII. Consequently, the phage offspring are not able to propagate further. Figure created with BioRender.com.
+</figcaption>
+</figure>
+
+To implement this system, we split the evolution process across three plasmids. The first plasmid is the selection phage (SP), which carries the SIAH1/2 gene and the phage genome but lacks the gIII, preventing the phage from propagating without the ligase’s activity. The second plasmid, accessory plasmid 1 (AP1), contains the genes for the E1 and E2 enzymes (which are required for ubiquitination but not normally present in bacteria), the N-terminal half of RNAP fused to ubiquitin, and the gIII controlled by the T7 promoter. The third plasmid, accessory plasmid 2 (AP2), contains the substrate fused to the C-terminal half of RNAP.
+
+This modular system allows us to easily swap out the substrate on AP2, enabling it to be applied to different E3 ligases or substrates. It also supports performing “substrate walks,” a process where we incrementally alter the amino-acid sequence of the substrate recognition motif to shift from a canonical target to a novel target of therapeutic interest. By doing this stepwise, we can control the selection pressure and gradually evolve SIAH1/2 to recognize new substrates.
+
+We plan to run this system in a bioreactor to create a continuous evolutionary environment. SIAH1/2 variants that successfully ubiquitinate the changing substrate will enable phage propagation, while less efficient variants are washed out (Figure X below). Over time, we can evolve SIAH1/2 to target a novel substrate, potentially demonstrating that directed evolution is a viable strategy for developing highly specific E3 ligases capable of precise targeted protein degradation.
+
+<figure markdown>
+![Figure_positive_negative_selection](https://idec-teams.github.io/2024_Evolution_Suisse/img/PACE_related_schematics/Complete_E3_PACE.png)
+<figcaption> Figure X: E3 ligase PACE evolutionary system. The PACE system operates within a lagoon with a constant inflow of new host cells and an outflow of phages and infected host cells. Upon infection of a host cell with a selection phage carrying a functional E3 ligase variant (green arrows), the E3 ligase ubiquitinates its target, which is fused to the C-terminal subunit of a split T7 RNA polymerase (RNAP), using ubiquitin fused to the N-terminal subunit of the split RNAP. The ubiquitin-mediated proximity of the split RNAP subunits assembles a functional T7 RNAP, which transcribes the gIII gene required for the assembly of infectious progeny. In the case of a non-functional E3 variant (red arrows), the lack of assembled T7 RNAP prevents gIII expression, resulting in non-infectious phage progeny. During phage genome replication, the mutation plasmid MP6 increases the mutation rate, generating new E3 variants in the process. Infectious progeny carrying new E3 variants then go on to infect fresh host cells, repeating the cycle.
+</figcaption>
+</figure>
+
+
+
 ## Experimental results
 
 ### Is phage propagation dependent on the selection phage? 
