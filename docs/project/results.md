@@ -36,6 +36,6 @@ To this end, we propagated the SIAH1 SP phages in bacterial cells that contain a
 
 <figure markdown>
 ![Figure_SIAH1_drift](https://idec-teams.github.io/2024_Evolution_Suisse/img/result_figures/Boxplot_quality_positions_wiki.png)
-<figcaption> **Detection of mutated bases in SIAH1-SP during eight drift passages** This figure illustrates the accumulation of mutations in the SIAH1-SP gene across eight cycles of drift. Each cycle represents one passage, during which the phages underwent random mutations in the absence of selection pressure. The data demonstrate how much genetic variation has been introduced over the course of the drift passages</figcaption>
+<figcaption> Detection of mutated bases in SIAH1-SP during eight drift passages This figure illustrates the accumulation of mutations in the SIAH1-SP gene across eight cycles of drift. Each cycle represents one passage, during which the phages underwent random mutations in the absence of selection pressure. The data demonstrate how much genetic variation has been introduced over the course of the drift passages</figcaption>
 </figure>
 
