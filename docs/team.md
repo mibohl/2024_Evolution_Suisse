@@ -51,7 +51,7 @@ hide:
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Philip.png" alt="Phillip" style="height:300px;width:300px">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Phillip.jpg" alt="Phillip" style="height:300px;width:300px">
     <span> Phillip Nitsch<br>
       Master's student, ETH Zürich <br> Allegedly helped Julien sell his kidney.</span>
   </div>
