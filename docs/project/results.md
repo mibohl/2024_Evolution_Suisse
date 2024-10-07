@@ -36,14 +36,14 @@ We tested if the E3 ligases SIAH1 and SIAH2 can trigger phage replication when a
 
 
 <figure markdown>
-![Figure_initial_difference](https://idec-teams.github.io/2024_Evolution_Suisse/img/result figures/Boxplot_quality_positions_wiki.png)
+![Figure_initial_difference](https://idec-teams.github.io/2024_Evolution_Suisse/img/result figures/Fig1a_wiki.png)
 <figcaption> Phages carrying SIAH1 or SIAH2 grow much better than phages carrying an unrelated protein. The fold change shows how much the number of phages increased or decreased (If the number of phages doubles, that is a two-fold increase).</figcaption>
 </figure>
 
 We then looked at whether changing the target protein affects phage replication. We replaced EGLN3 (blue) with α-Synuclein (orange), which is also recognised by SIAH1/2. Changing the target protein changes the level of phage propagation. This shows that our system depends on SIAH1 or SIAH2 and the target protein interacting together. 
 
 <figure markdown>
-![Figure_initial_difference](https://idec-teams.github.io/2024_Evolution_Suisse/img/result figures/Boxplot_quality_positions_wiki.png)
+![Figure_initial_difference](https://idec-teams.github.io/2024_Evolution_Suisse/img/result figures/Fig1b_wiki.png)
 <figcaption> Phage propagation is dependent on the substrate. The fold change shows how much the number of phages increased or decreased. </figcaption>
 </figure>
  
@@ -51,7 +51,7 @@ We then looked at whether changing the target protein affects phage replication.
 Next, we looked at how changes in the degron would affect our system. We found that even when we altered key parts of the degron in EGLN3, phage replication was not significantly affected. This suggests that phage propagation might be triggered by other factors than the degron. 
 
 <figure markdown>
-![Figure_degron_dependency](https://idec-teams.github.io/2024_Evolution_Suisse/img/result figures/Boxplot_quality_positions_wiki.png)
+![Figure_degron_dependency](https://idec-teams.github.io/2024_Evolution_Suisse/img/result figures/Fig1c_wiki.png)
 <figcaption> Phage propagation is not affected by the disruption of the degron. The wildtype degron is: FIADVEP. The fold change shows how much the number of phages increased or decreased. </figcaption>
 </figure>
 
