@@ -57,7 +57,7 @@ hide:
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/Jakob.jpg" alt="Pau" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2024_Evolution_Suisse/img/team images/Pau.jpg" alt="Pau" style="height:375px;width:300px">
     <span> Pau Jorba Adolff<br>
       Master's student, ETH Zürich <br> His zen state puts even the most dedicated monks to shame. He claims it's just tea.</span>
   </div>
