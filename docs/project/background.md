@@ -12,7 +12,7 @@ The UPS involves several important steps and enzymes to ensure that only the rig
 
 The UPS is highly selective, ensuring that only the right proteins are degraded. However, sometimes this system fails to properly address problematic proteins, which can lead to diseases, such as cancer or autoimmune diseases  [^ubi_fifth][^ubi_sixth]. To overcome this, researchers have turned to Targeted Protein Degradation (TPD), a cutting-edge therapeutic approach that directs the body’s own degradation machinery toward disease-causing proteins. Current TPD strategies include small molecules like PROTACs (proteolysis-targeting chimeras) and molecular glues, which help guide harmful proteins to be tagged with ubiquitin and destroyed by the UPS [^ubi_first].
 
-Despite their promise, current TPD methods face significant challenges. They can mistakenly tag healthy proteins for degradation, leading to unwanted off-target effects. Furthermore, these approaches may be inherently toxic or suffer from poor pharmacokinetic properties, complicating their development into safe and effective treatments (**10.1038/s41573-021-00371-6**). These limitations underscore the need for novel advancements to improve the precision of targeting harmful proteins, which could greatly enhance both the effectiveness and safety of protein degradation therapies.
+Despite their promise, current TPD methods face significant challenges. They can mistakenly tag healthy proteins for degradation, leading to unwanted off-target effects. Furthermore, these approaches may be inherently toxic or suffer from poor pharmacokinetic properties, complicating their development into safe and effective treatments[^protac_paper]. These limitations underscore the need for novel advancements to improve the precision of targeting harmful proteins, which could greatly enhance both the effectiveness and safety of protein degradation therapies.
 
 
 
@@ -39,6 +39,7 @@ Sometimes, the activity of the biomolecule we're evolving is too weak, resulting
 [^ubi_fourth]:Damgaard RB. The ubiquitin system: from cell signalling to disease biology and new therapeutic opportunities. Cell Death Differ. 2021;28: 423–426. doi:10.1038/s41418-020-00703-w
 [^ubi_fifth]:Vu PK, Sakamoto KM. Ubiquitin-mediated proteolysis and human disease. Mol Genet Metab. 2000;71: 261–266. doi:10.1006/mgme.2000.3058
 [^ubi_sixth]:Martínez-Jiménez F, Muiños F, López-Arribillaga E, Lopez-Bigas N, Gonzalez-Perez A. Systematic analysis of alterations in the ubiquitin proteolysis system reveals its contribution to driver mutations in cancer. Nat Cancer. 2020;1: 122–135. doi:10.1038/s43018-019-0001-2
+[^protac_paper]:Békés M, Langley DR, Crews CM. PROTAC targeted protein degraders: the past is prologue. Nat Rev Drug Discov. 2022;21: 181–200. doi:10.1038/s41573-021-00371-6
 
 [^phage_mutation_rate]:Cuevas JM, Duffy S, Sanjuán R. Point Mutation Rate of Bacteriophage ΦX174. Genetics. 2009;183: 747–749. doi:10.1534/genetics.109.106005
 [^pace_paper]:Esvelt KM, Carlson JC, Liu DR. A system for the continuous directed evolution of biomolecules. Nature. 2011;472: 499–503. doi:10.1038/nature09929
