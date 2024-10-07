@@ -1,5 +1,3 @@
-<p align="justify">
-
 # Protocols
 
 ## General information regarding the listed protocols
@@ -247,4 +245,3 @@ Data were analysed and visualised using R Statistical Software v4.4.1[^2]. Sange
 [^2]: Komelj J. R Core team: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna. In: Scientific Research [Internet]. 2023 [cited 1 Oct 2024]. Available: https://www.scirp.org/reference/referencespapers?referenceid=3582659
 [^3]: Hill JT, Demarest BL, Bisgrove BW, Su Y-C, Smith M, Yost HJ. Poly peak parser: Method and software for identification of unknown indels using sanger sequencing of polymerase chain reaction products. Dev Dyn. 2014;243: 1632–1636. doi:10.1002/dvdy.24183
 
-</p>
