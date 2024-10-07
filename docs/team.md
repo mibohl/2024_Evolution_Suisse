@@ -9,7 +9,7 @@ hide:
 
 <div class="image-grid">
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Julien.jpg" alt="Julien" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Julien.jpg" alt="Julien" style="height:300px;width:300px">
     <span> Julien Romain Bast <br>
       Master's student, ETH Zürich
       <br>
@@ -17,7 +17,7 @@ hide:
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Gabriel.jpg" alt="Gabriel" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Gabriel.jpg" alt="Gabriel" style="height:300px;width:300px">
     <span> Gabriel Cervera Arriaga <br>
       Master's student, ETH Zürich
       <br> 
@@ -51,7 +51,7 @@ hide:
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Phillip" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Phillip" style="height:300px;width:300px">
     <span> Phillip Nitsch<br>
       Master's student, ETH Zürich <br> Allegedly helped Julien sell his kidney.</span>
   </div>
@@ -69,7 +69,7 @@ hide:
   </div>
   
   <div class="image-item">
-    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Michael" style="height:375px;width:300px">
+    <img src="https://idec-teams.github.io/2023_Evolution_Suisse/img/team/fotoshoot_reduced/Sasha.jpg" alt="Michael" style="height:300px;width:300px">
     <span> Michael Bohl<br>
       Master's student, ETH Zürich <br> if our results were as good as his muscle-ups, we would have solved cancer 6 months ago.</span>
   </div>
