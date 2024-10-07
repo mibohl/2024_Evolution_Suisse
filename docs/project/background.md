@@ -1,5 +1,8 @@
 # Background
+## Proper protein function is integral to our health
+Virtually all processes in our cells rely on the proper functioning of macromolecules called proteins. They are composed of long chains of amino acids, with the precise sequence of amino acids determining the three-dimensional structure and function of the protein. Proteins provide structural support for cells, replicate genetic material, process metabolic reactions, generate energy, and contribute to cell growth, among countless other vital roles. However, maintaining the proper activity and behaviour of these proteins is crucial for cellular health.
 
+Due to factors such as ageing, genetic mutations, or environmental stressors, proteins can malfunction, leading to detrimental effects. Proteins might be overproduced, misfolded, or become hyperactive, contributing to cellular dysfunction and disease. This dysregulation of protein activity is a growing concern, as it underlies many serious health issues. We can illustrate this with two prominent examples: hepatic diseases, like non-alcoholic fatty liver disease (NAFLD), and neurodegenerative diseases, such as Alzheimer's and Parkinson's. Both conditions are increasingly prevalent and represent a major health burden worldwide, largely due to the accumulation or overactivity of harmful proteins that disrupt normal cellular processes.
 
 ## Targeted Protein Degradation presents a promising therapeutic strategy
 
