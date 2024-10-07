@@ -35,7 +35,7 @@ During PACE, both phages and infected bacteria are continuously removed from the
 To this end, we propagated the SIAH1 SP phages in bacterial cells that contain a special drift plasmid (DP6). The DP6 plasmid not only increases the mutation rate but also supplies the necessary pIII protein, allowing phages to replicate regardless of the E3 ligase's activity. Over eight infection and growth cycles (called passages), we sequenced the SIAH1 SP phages, and estimated the amount of mutations at different positions in the SIAH1 gene. With each passage, we saw the number of mutated phages increase, creating a highly diverse pool of SIAH1 SP phages. This pool can then serve as a robust starting pool for the next stages of evolutionary experiments, reducing the risk of phage washout and enhancing the chances of evolving phages with improved E3 ligase activity.
 
 <figure markdown>
-![Figure_SIAH1_drift](https://idec-teams.github.io/2024_Evolution_Suisse/img/result_figures/Boxplot_quality_positions_wiki.png)
+![Figure_SIAH1_drift](https://idec-teams.github.io/2024_Evolution_Suisse/img/result figures/Boxplot_quality_positions_wiki.png)
 <figcaption> Detection of mutated bases in SIAH1-SP during eight drift passages This figure illustrates the accumulation of mutations in the SIAH1-SP gene across eight cycles of drift. Each cycle represents one passage, during which the phages underwent random mutations in the absence of selection pressure. The data demonstrate how much genetic variation has been introduced over the course of the drift passages</figcaption>
 </figure>
 
